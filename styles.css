@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "Permanent Marker";
+  src: url(fonts/PermanentMarker-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Altform";
+  font-weight: 400;
+  src: url(fonts/Altform-Regular.ttf);
+}
+
+.marker {
+  font-family: "Permanent Marker";
+}
+
+.altform {
+    font-family: "Altform";
+}
